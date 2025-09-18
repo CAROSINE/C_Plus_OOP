@@ -1,1 +1,1 @@
-else
+    determinant=pow(y,2)-4*x*z;
